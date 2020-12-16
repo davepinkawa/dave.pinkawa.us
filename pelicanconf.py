@@ -10,7 +10,7 @@ SITESUBTITLE = "Dave Pinkawa's Personal Blog"
 SITEDESCRIPTION = "Dave Pinkawa's Thoughts and Writings"
 COPYRIGHT_YEAR = 2020
 
-MAIN_MENU = True
+MAIN_MENU = False
 SITELOGO = SITEURL + "/images/favicon.ico"
 FAVICON = SITEURL + "/images/favicon.ico"
 PATH = 'content'
@@ -36,6 +36,7 @@ SOCIAL = (
     ('github', 'https://github.com/davepinkawa'),
     ('linkedin','https://www.linkedin.com/in/david-pinkawa/'),
     ('twitter','https://twitter.com/davepinkawa'),
+    ("rss", "/blog/feeds/all.atom.xml"),
 )
 
 #MENUITEMS = (
