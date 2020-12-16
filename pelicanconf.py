@@ -39,11 +39,11 @@ SOCIAL = (
     ("rss", "/blog/feeds/all.atom.xml"),
 )
 
-#MENUITEMS = (
-#    ('Archives', 'archives'),
-#    ('Categories', 'categories'),
-#    ('Tags', 'tags')
-#)
+MENUITEMS = (
+    ('Archives', '/archives'),
+    ('Categories', '/categories'),
+    ('Tags', '/tags')
+)
 
 DEFAULT_PAGINATION = 10
 
