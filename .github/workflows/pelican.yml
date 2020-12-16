@@ -22,7 +22,7 @@ jobs:
         run: |
           make publish
       - name: Deploy to Azure Blob Storage
-      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
           source_dir: 'content'
           container_name: '$web'
