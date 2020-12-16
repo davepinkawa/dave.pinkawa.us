@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Dave Pinkawa'
-SITENAME = 'dave.pinkawa.us'
+SITENAME = 'pinkawa.us'
 SITEURL = 'https://dave.pinkawa.us'
 #SITEURL = ''
 SITETITLE = 'Play, Teach, Learn'
