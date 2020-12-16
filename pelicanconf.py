@@ -40,9 +40,9 @@ SOCIAL = (
 )
 
 MENUITEMS = (
-    ('Archives', '/archives'),
-    ('Categories', '/categories'),
-    ('Tags', '/tags')
+    ('Archives', '/archives.html'),
+    ('Categories', '/categories.html'),
+    ('Tags', '/tags.html')
 )
 
 DEFAULT_PAGINATION = 10
