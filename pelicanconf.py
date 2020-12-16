@@ -38,11 +38,11 @@ SOCIAL = (
     ('twitter','https://twitter.com/davepinkawa'),
 )
 
-MENUITEMS = (
-    ('Archives', 'archives'),
-    ('Categories', 'categories'),
-    ('Tags', 'tags')
-)
+#MENUITEMS = (
+#    ('Archives', 'archives'),
+#    ('Categories', 'categories'),
+#    ('Tags', 'tags')
+#)
 
 DEFAULT_PAGINATION = 10
 
