@@ -1,4 +1,4 @@
-name: Pelican Builder
+name: Pelican Builder and Upload to Azure Blob Storage
 
 on:
   push:
@@ -11,10 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python 3.7
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v2
         with:
           python-version: 3.7
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name: Build the prod site
+        run: |
+          make publish
+      - name: Deploy to Azure Blob Storage
+      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        with:
+          source_dir: 'content'
+          container_name: '$web'
+          connection_string: ${{ secrets.ConnectionString }}
+          sync: true
