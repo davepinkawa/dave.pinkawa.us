@@ -10,7 +10,7 @@ SITESUBTITLE = "Dave Pinkawa's Personal Blog"
 SITEDESCRIPTION = "Dave Pinkawa's Thoughts and Writings"
 COPYRIGHT_YEAR = 2020
 
-MAIN_MENU = False
+MAIN_MENU = True
 SITELOGO = SITEURL + "/images/favicon.ico"
 FAVICON = SITEURL + "/images/favicon.ico"
 PATH = 'content'
@@ -67,7 +67,8 @@ SITEMAP = {
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# 256491466
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 DISQUS_SITENAME = 'dave-pinkawa-us'
 GOOGLE_ANALYTICS = '256491466'
