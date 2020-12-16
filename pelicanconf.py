@@ -14,7 +14,7 @@ MAIN_MENU = True
 SITELOGO = SITEURL + "/images/favicon.ico"
 FAVICON = SITEURL + "/images/favicon.ico"
 PATH = 'content'
-THEME = 'Flex-2.4.0'
+THEME = 'theme/Flex-2.4.0'
 TIMEZONE = 'America/Chicago'
 
 ROBOTS = "index, follow"
