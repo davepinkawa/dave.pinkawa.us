@@ -1,7 +1,5 @@
 Title: Published
 
-## Publications
-
 ### Book Authoring
 <p><a href="https://leanpub.com/u/davepinkawa" target="_blank" rel="noopener noreferrer">LeanPub.com Author Page</a></p>
 
