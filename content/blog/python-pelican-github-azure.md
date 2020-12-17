@@ -1,9 +1,10 @@
 Title: Python-Generated Static Site into Azure Blob Storage Static Sites via GitHub Actions
-Date: 2020-12-16 12:00
+Date: 2020-12-17 10:00
 Category: Blog
 Tags: tech
 Slug: python-pelican-github-actions-azure-static-site
 Authors: Dave Pinkawa
+Summary: A walk-through on my build process for the blog including tools in-use, some of the interesting bits along the way, and some explaining into how GitHub Actions work.
 
 ## Starting the Project
 
