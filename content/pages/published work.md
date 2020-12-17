@@ -1,6 +1,6 @@
 Title: Published
 
-These are a few of the additional projects in which I do Video or Written posts on various software, automation, or configuration.
+<p>These are a few of the additional projects in which I do Video or Written posts on various software, automation, or configuration.</p>
 
 ### Book Publishing
 <p><a href="https://leanpub.com/u/davepinkawa" target="_blank" rel="noopener noreferrer">LeanPub.com Author Page</a></p>
