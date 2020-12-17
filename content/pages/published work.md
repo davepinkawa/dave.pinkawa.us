@@ -3,19 +3,19 @@ Title: Published
 These are a few of the additional projects in which I do Video or Written posts on various software, automation, or configuration.
 
 ### Book Publishing
+<p><a href="https://leanpub.com/u/davepinkawa" target="_blank" rel="noopener noreferrer">LeanPub.com Author Page</a></p>
 
-[LeanPub.com Author Page](https://leanpub.com/u/davepinkawa "LeanPub.com")
 
-### Author Pages On:
+### Guest Author On:
 
-[AdamtheAutomator.com](https://adamtheautomator.com/author/david-pinkawa/ "Adam the Automator")
+<p><a href="https://adamtheautomator.com/author/david-pinkawa/" target="_blank" rel="noopener noreferrer">AdamtheAutomator.com</a></p>
 
-[TechTarget.com](https://www.techtarget.com/contributor/Dave-Pinkawa "TechTarget")
+<p><a href="https://www.techtarget.com/contributor/Dave-Pinkawa" target="_blank" rel="noopener noreferrer">TechTarget.com</a></p>
 
-[TechSnips.io](https://techsnips.io/contributors/david-pinkawa/ "TechSnips")
+<p><a href="https://techsnips.io/contributors/david-pinkawa/" target="_blank" rel="noopener noreferrer">TechSnips.io</a></p>
 
 ### Video Contribution Work:
 
-[ScriptRunner](https://www.youtube.com/watch?v=J_e-W4HbZYA&list=PLdBRPSN62VAS3yMestt7nnArhNg6egoYM "ScriptRunner")
+<p><a href="https://www.youtube.com/watch?v=J_e-W4HbZYA&list=PLdBRPSN62VAS3yMestt7nnArhNg6egoYM" target="_blank" rel="noopener noreferrer">ScriptRunner</a></p>
 
-[Techsnips Youtube Channel Manager](https://www.youtube.com/channel/UCFgZ8AxNf1Bd1C6V5-Vx7kA "TechSnips Youtube Channel")
+<p><a href="https://www.youtube.com/channel/UCFgZ8AxNf1Bd1C6V5-Vx7kA" target="_blank" rel="noopener noreferrer">Techsnips Youtube Channel Management</a></p>
