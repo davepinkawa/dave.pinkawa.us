@@ -37,7 +37,7 @@ SOCIAL = (
     ('github', 'https://github.com/davepinkawa'),
     ('linkedin','https://www.linkedin.com/in/david-pinkawa/'),
     ('twitter','https://twitter.com/davepinkawa'),
-    ("rss", "feeds/all.atom.xml"),
+    ("rss", "/feeds/all.atom.xml"),
 )
 
 MENUITEMS = (
