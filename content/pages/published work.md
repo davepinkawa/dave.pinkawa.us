@@ -1,12 +1,11 @@
 Title: Published
 
-<p>These are a few of the additional projects in which I do Video or Written posts on various software, automation, or configuration.</p>
+## Publications
 
-### Book Publishing
+### Book Authoring
 <p><a href="https://leanpub.com/u/davepinkawa" target="_blank" rel="noopener noreferrer">LeanPub.com Author Page</a></p>
 
-
-### Guest Author On
+### Guest Author
 
 <p><a href="https://adamtheautomator.com/author/david-pinkawa/" target="_blank" rel="noopener noreferrer">AdamtheAutomator.com</a></p>
 
@@ -14,7 +13,7 @@ Title: Published
 
 <p><a href="https://techsnips.io/contributors/david-pinkawa/" target="_blank" rel="noopener noreferrer">TechSnips.io</a></p>
 
-### Video Contribution Work
+### Video Contributions
 
 <p><a href="https://www.youtube.com/watch?v=J_e-W4HbZYA&list=PLdBRPSN62VAS3yMestt7nnArhNg6egoYM" target="_blank" rel="noopener noreferrer">ScriptRunner</a></p>
 
