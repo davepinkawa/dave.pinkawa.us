@@ -3,6 +3,9 @@ Title: Published
 These are a few of the additional projects in which I do Video or Written posts on various software, automation, or configuration.
 
 ### Book Publishing
+<a href="https://leanpub.com/u/davepinkawa" target="_blank">LeanPub.com Author Page!</a>
+
+
 [LeanPub Book Writing Author Page](https://leanpub.com/u/davepinkawa "LeanPub.com")
 
 ### Author Pages On:
