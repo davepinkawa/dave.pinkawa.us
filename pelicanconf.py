@@ -29,7 +29,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Home', '/'),)
-SUMMARY_MAX_LENGTH = 50
+SUMMARY_MAX_LENGTH = 30
 
 # Social widget
 SOCIAL = (
