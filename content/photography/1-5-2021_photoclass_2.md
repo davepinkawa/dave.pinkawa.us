@@ -6,12 +6,12 @@ Slug: photoclass-assignment-2
 Authors: Dave Pinkawa
 Summary: This assignment wasn't to take pictures of anything in particular, but actually to review the work of professionals. This is my dive into looking at and appreciating other people's work.
 
-So while perusing this insanely long list of photographers on wikipedia (https://en.wikipedia.org/wiki/List_of_photographers) and Googling names at random, I came across John Stanmeyer and his work with National Geographic. 
+So while perusing this insanely long list of photographers on wikipedia ([https://en.wikipedia.org/wiki/List_of_photographers](https://en.wikipedia.org/wiki/List_of_photographers))and Googling names at random, I came across John Stanmeyer and his work with National Geographic. 
 
 I don't want to spend a ton of time pouring over too many photos, so I've plucked my favorite that I've seen to review.
 
 ## Cenote
-https://www.stanmeyer.com/prints/p/cenote
+[https://www.stanmeyer.com/prints/p/cenote](https://www.stanmeyer.com/prints/p/cenote)
 
 This is the first photograph I found that really pulled me towards it. Caves are both a running joke for my family (No matter where we travel, we always find a hole in the ground to tour or hike through, _haha_), but also a point of fascination. The way the earth can shape itself in unique ways while having a perceived endless nature due to the extreme darkness, gives me a sense of wonder and exploring every time we visit a cave as a family.
 
