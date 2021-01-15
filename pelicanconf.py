@@ -8,7 +8,7 @@ SITEURL = 'https://dave.pinkawa.us'
 SITETITLE = 'Play, Teach, Learn'
 SITESUBTITLE = "Dave Pinkawa's Personal Blog"
 SITEDESCRIPTION = "Dave Pinkawa's Thoughts and Writings"
-COPYRIGHT_YEAR = 2020
+COPYRIGHT_YEAR = 2021
 
 MAIN_MENU = True
 SITELOGO = SITEURL + "/images/favicon.ico"
