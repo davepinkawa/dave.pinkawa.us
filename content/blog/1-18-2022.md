@@ -1,0 +1,126 @@
+Title: Favorite Books Read Last Year
+Date: 2022-01-18 10:20
+Category: Blog
+Tags: reading
+Slug: books-read-2021
+Authors: Dave Pinkawa
+Summary: Carved out some personal time to enjoy reading for leisure and career growth.
+
+# Reading More
+
+With the family growing, work keeping me busy, and this whole pandemic stress thing, my reading for leisure in 2020 took a hit. However, in 2021 I was able to hit my stride and finally get back into reading for both leisure and for career growth purposes.
+
+I have a big fan of the Fantasy and Sci-Fi genres, but have also dipped a toe into some horror-eque literature. I think this was one of my biggest reading years in a while, and I'm excited to keep my reading habit growing!
+
+While I do have a physical book collection, my primary medium for reading is a Lenovo Tab 8. It has a nice backlight to it, I keep all distracting stuff off of it, and primarily use Google Play Books as my eReader of choice.
+
+Audiobooks are great for working out or commuting, and my only indulgence there is the Wheel of Time series. I am currently on book 11 there, and it has been a couple years journey up to this point. Loving it all, along the way.
+
+## Career Focused Books
+
+I wouldn't be a knowledge worker with a growth mindset, if I didn't continually read about both my profession (IT) and the management principles surrounding it. Here are a few of the books I read over the past year, and some of my thoughts on them.
+
+### Team Topologies - Matthew Skelton & Manuel Pais
+
+The book itself is well written and gives great examples of how team and org structures affect the developed product's outcome and maintainability. As a primarily operations/project-level Systems Engineer, my greatest learnings from this book were around the cognitive load and managing workloads within teams. I have witnessed the differences in outcomes for teams with a wide-ranging set of responsibilities versus those with a more narrow set of responsibilities, but never before have I seen the problems with a 'jack-of-all-trades' provide such clarity on why it can be a detriment, that this book provides.
+
+> When we talk about cognitive load, it’s easy to understand that any one person has a limit on how much information they can hold in their brains at any given moment. The same happens for any one team by simply adding up all the team members’ cognitive capacities.
+
+> However, we hardly ever discuss cognitive load when assigning responsibilities or software parts to a given team. Perhaps because it’s hard to quantify both the available capacity and what the cognitive load will be. Or perhaps because the team is expected to adapt to what it’s being asked to do, no questions asked.
+
+IT professionals in my experience, tend to never want to say 'no' to additional work being asked of them, when their cognitive load is already nearing it's maximum levels. As a profession we need to curb this piling-on mentality, so that we can focus on what is important and drives the business towards growth.
+
+### Managing Oneself - Peter F. Drucker
+
+This is a short Harvard Business Review essay on understanding your own habits, learning, and growth. I have read it a couple of times over the last few years, and it always brings forth some new truth about my own habits that I can either improve, or need to move on from.
+
+Getting feedback, concentrating on your strengths, and improving upon those same strengths will provide the largest 'bang-for-your-buck' when it comes to professional growth.
+
+> First-rate engineers, for instance, tend to take pride in not knowing anything about people. Human beings, they believe, are much too disorderly for the good engineering mind. Human resources professionals, by contrast, often pride themselves on their ignorance of elementary accounting or of quantitative methods altogether. But taking pride in such ignorance is self-defeating. Go to work on acquiring the skills and knowledge you need to fully realize your strengths.
+
+Being well-rounded to fully realize your primary strengths does not mean you have to be a jack-of-all-trades. It just means you need to be competent in most areas, with a specialization on top of that.
+
+### Let's Talk Business - Don Jones
+
+This one isn't as timeless as the HBR essays or materials, but has a great conversational feel to it. This approachability was refreshing and made for a quick read, and provides IT professionals that tend to be heads-down in technical work, to get a glimpse of how businesses operate and view their results.
+
+I don't think this book is up on Leanpub any longer, there's some larger work by Don that will be replacing it, and I'll keep an eye out for when it does.
+
+### Making Work Visible - Dominica DeGrandis
+
+Making Work Visible is often something talked about in other business books, but this one really goes the full mile in describing why knowledge workers need to put effort into this. By having a visual representation of work being done, or where it has hit a roadblock, non-technical management can make business-level determinations more easily to help with those blocks. Transparency and awareness of what is going on can be very ethereal and hard to understand, unless you can make things visible, and this book does a great job providing ideas on how to accomplish this for your team, department, or organization.  
+
+### The Pragmatic Programmer - David Thomas & Andrew Hunt
+
+This book has been on my list to complete for quite a while, and I finally finished it! It is a bit of a slog, and maybe it's better as a referencial book for individual topics, but I wanted to read it cover to cover.
+
+There is a lot of overlap in this book with other books I've read on programming or IT in general, but if I was just starting out in IT or development fields, this is a great primer on just about everything. I just may have been past the mark career-wise to get full benefit, but some of the priciples like 'Don't Repeat Yourself' are nice to have a name for concepts already engrained in my mental approach to PowerShell and Python work.
+
+## Reading for Leisure / Pleasure
+So you'll see a trend here of mostly Fantasy or Sci-Fi related books. I tried to read a handful of other genres in the past, and would get hit with a 'slog' feeling and just can't finish them. Reading is my escape, and my escapes tend to be fantastical or outlandish, with a tinge of real-world relativity or morality in such a setting.
+
+### The Collapsing Empire Series (Trilogy) - John Scalzi
+
+Oh Scalzi, how you entertain me so. A few years back I finished with his Old Man's War series, and saw that this new series was finishing up release. So I picked up a copy of each for a family vacation, and wouldn't you know it finished the whole series in a matter of days while relaxing on vacation.
+
+The Sci-Fi concepts feel unique, the politics are engaging without feeling too over-the-top, and the story as a whole is satisfying. The final book did feel slightly rushed for me, I can't put my finger on why, but it was satisfying all the same. Even got my wife to read this series, and she got through it just as quickly (if not even faster!). 
+
+
+### The Ocean at the End of the Lane - Neil Gaiman
+
+This one was actually a re-read (very rare for me), of the illustrated physical copy that came out last year. I originally read the first release of this book and was absolutely engrossed by it. I still was this time around, and found myself enjoying the illustrations along the way. It wasn't as impactful emotionally for me this time around, but still a wonderous story all the same, and it's my go-to recommendation for why I love fantasy books.
+
+### Piranesi - Susanna Clarke
+
+I've never read anything by Susanna Clarke before, but she has a devotee now. The world of Piranesi took me over by storm. The fantastic and eerie atmosphere, the psychologically confusing portions that turn into horrifying clarity as the story goes on. This book got a hold of me and did not let go until it was done, and will probably be a re-read for future me at some point.
+
+
+### Redshirts - John Scalzi
+
+Another Scalzi book on the list, and it is an older one of his to boot. The story here is intriguing and light-hearted, and _very_ Sci-Fi heavy. It reminds me of some of the crazier plots in Star Trek, but is a very meta-approach to those very same shows.
+
+If you're a fan of Star Trek, and want to exercise wrapping your brain around some interesting concepts about the universe, this is a fun and quick read that will leave you satisfied at the end.
+
+
+### "The Colour of Magic" and "The Light Fantastic" (Discworld) - Terry Pratchett
+At a certain point I need to stop picking up book series with a crazy amount of books within them (looking at you Expanse and Wheel of time). But where the other large universes I read about have 800+ pages per book, Discworld is bite-sized around 200 pages each. I love these bite-sized books because it makes it easy to approach a familiar world, without having to commit to such a large book. I often read one of these between larger novels, as a fun escape. Pratchett's prose flows nicely and has a lot of humor that makes for a great story.
+
+### Project Hail Mary - Andy Weir
+
+My only other readign with Andy Weir was "The Martian" in audiobook form on a road-trip years ago, which was great. It was Sci-Fi / Fantasy more closely locked in with reality and physics that we're all familiar with, which was great when sharing the audiobook with my wife and parents in the car. I never did get around to reading "Artemis" but the premise of _Project Hail Mary_ caught my eye quickly. 
+
+This one was a page-turner for sure. The interesting story, the mechanisms to inform the reader slowly about what happened in the past, and the interactions in space all had that same 'probable-in-our-reality' sense. While we only see a tiny bubble of space in this universe, the plot and characters make for a beautifully well-rounded timeline and story. In reflection, I think this was my favorite book of the year.
+
+### "Relic" and the sequel "Reliquary" - Douglas Preston & Lincoln Child
+
+Relic had a movie in the 90s that took place at the Field Museum in Chicago (instead of in New York, per the book), and it was an interested horror flick. I picked this book up at the recommendation of a friend, when I asked "Looking for something not completely Fantasy, but just a little bit" and wouldn't you know it this fit the bill very well.
+
+There are some fantasy-elements like the creature and plants of the story, how unrealistic it seems, the authors do a good job in grounding it in scientific terminology (of which I'm not a scientist, but it sounded good/accurate enough to suspend my disbelief). 
+
+I found myself really liking the cast of characters in both of these books, the insane suspenseful situations, and the investigative feel as the story grew. After reading the second book in this overarching series, I also wanted to read more about subterranean New York. This is where fantasy meets reality in book 2 (Reliquary), and while it seems outlandish there is a lot of valid anthropological information! Very intriguing stuff, and will keep reading about Agent Pendergast for sure.
+
+### "The Last Wish" and "Sword of Destiny" (Witcher Series) - Andrzej Sapkowski
+
+Having played The Witcher 3 game, and watched the TV show, I picked up the first 2 books this past year. It was... interesting. I can't recall the last time I read a book that _felt_ like I was reading about a primary character's side-quests, but that's what each of these felt like so far. Geralt goes here, things happen, and then he continues on his way. Some elements flow between stories, but these first couple of books have chapters that were then extrapolated into full TV episodes in the Netflix adaptation. The connectivity between mediums and seeing the similarities between book and TV is half the fun for me in this Witcher universe.
+
+
+## Goals for 2022
+
+Some books I already have on my to-read list for this year!
+
+* Neuromancer - William Gibson
+* The Broken Earth series - N.K. Jemisin
+* More Discworld books - Terry Pratchett
+* The Ultimate Hitchhiker's Guide to the Galaxy - Douglas Adams
+* More Witcher Series - Andrzej Sapkowski
+* The Expanse book 4 (Cibola Burn) - James S.A. Corey
+* The Cabinet of Curiosities - Douglas Preston & Lincoln Child
+* Johnathan Strange & Mr Norrell - Susanna Clarke
+* Mistborn - Brandon Sanderson
+* Harvard Busines Review Top 10 book set - Multi-Authored
+
+It has been a fun year, this has been a fun post to slap together, and I hope everyone has a great reading year!
+
+Take care, everyone
+
+-Dave
