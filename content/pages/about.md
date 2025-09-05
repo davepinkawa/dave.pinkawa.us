@@ -4,6 +4,8 @@ Title: About
 
 
 ### Professional Titles
+> Engineering Manager
+
 > System Administrator
 
 > Continuing Education Instructor
